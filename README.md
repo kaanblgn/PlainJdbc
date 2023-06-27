@@ -1,5 +1,5 @@
 # PlainJdbc
-A small demonstration to interns in company for teaching:
+A small demonstration to interns for teaching:
 
 * layered architecture
 * implementation of the jdbc driver
